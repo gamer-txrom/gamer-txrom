@@ -1,5 +1,5 @@
 - 👋 Hi, I’m txrom
 - 👀 I’m interested in emulation, game development, and pixel art
 - 💪 I'm good at Rust, and Clojure
-- 🌱 I’m currently learning Zig
+- 🌱 I’m currently learning Nim
 - 📫 Reach me via [Twitter](https://twitter.com/txrom_)
